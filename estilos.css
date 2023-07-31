@@ -1,0 +1,41 @@
+div {
+    background-color: #2a78ab;
+    text-align: center;
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.navegacion {
+    color: salmon;
+}
+
+.redes {
+    color: teal;
+}
+
+#pie {
+    color: white;
+}
+
+#perfil {
+    border-radius: 100%;
+}
+p {
+    color: black;
+}
+
+table {
+    width: 99%;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
